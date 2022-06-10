@@ -1,3 +1,4 @@
+<!-- include files -->
 <?php include_once('conn.php'); ?>
 <?php include_once('inc/header.php'); ?>
   <!--Banner-->
